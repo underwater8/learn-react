@@ -27,7 +27,7 @@ const App: React.FunctionComponent = () => {
 export class AnotherApp extends React.Component {
   render() {
     return (
-      <h1>Hello world 12345</h1>
+      <h1>Hello world!!! Bye bye world 234 ?</h1>
     );
   }
 }
